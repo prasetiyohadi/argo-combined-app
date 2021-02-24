@@ -9,7 +9,7 @@ spec:
   - argo-combined-app
   hosts:
   - argo-combined-app.local
-  - argo-combined-app.172.104.38.221.xip.io
+  - acme.com
   http:
   - name: primary
     route:
