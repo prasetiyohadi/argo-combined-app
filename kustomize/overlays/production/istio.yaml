@@ -9,7 +9,7 @@ spec:
   - argo-combined-app
   hosts:
   - argo-combined-app.local
-  - argo-combined-app.172.104.38.221.xip.io
+  - argo-combined-app.172.104.37.217.xip.io
   http:
   - name: primary
     route:
